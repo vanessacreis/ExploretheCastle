@@ -1,0 +1,45 @@
+.convite{
+    width: 550px;
+    height: 350px;
+    padding: 35px;
+    background-image: url(./imgs/convitebgg\ \(1\).png);
+    border-radius: 15px;
+    box-shadow: 5px 5px #551A8B;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.convite h2{
+    color: #D3D3D3;
+    font-size: 25px;
+    text-shadow: 2px 2px #8B2500;
+    margin-bottom: 20px;
+}
+
+.convite p{
+    color: #D3D3D3;
+    margin: 0px 28px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#dataend{
+    color: #8B2500;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.convite a{
+    color: #D3D3D3;
+    font-size: 20px;
+    text-shadow: 3px 3px #551A8B;
+    font-family: 'Pirata One', cursive;
+}
+
+.convite a:hover{
+    font-size: 22px;
+    letter-spacing: 2px;
+    transition: 1.5s;
+}

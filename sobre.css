@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100;200;300;400;500;600&display=swap');
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-size: border-box;
+}
+
+body{
+    background: rgb(134,98,134);
+    background: linear-gradient(90deg, rgba(134,98,134,1) 0%, rgba(139,58,58,1) 26%, rgba(0,0,0,1) 75%);
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.headerbg{
+    margin: 20px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.titulo{
+    color: whitesmoke;
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.titulo span:hover{
+    color:#F08080;
+    transition: 1s;
+}
+
+.menu ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu a{
+    color: whitesmoke;
+    font-size: 25px;
+    font-weight: 100;
+    padding: 20px;
+}
+
+.menu a:hover{
+    color: #F08080;
+    transition: 1s;
+}
+
+.corpo{
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container{
+    width: 50vw;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #8B6969;
+    padding: 10px;
+}
+
+.subtitulo{
+    font-size: 30px;
+}
+
+.container p{
+    font-size: 20px;
+    font-weight: 100;
+    color: whitesmoke;
+}

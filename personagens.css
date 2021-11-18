@@ -1,0 +1,42 @@
+.texto{
+    color: #D3D3D3;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.texto span{
+    color: #D3D3D3;
+    font-family: 'Pirata One', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+.personagens{
+    width: 100%;
+}
+
+.personagens ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.personagens img{
+    max-width: 130px;
+}
+
+.personagens img:hover{
+    filter: drop-shadow(12px 12px 6px #2F0F4D);
+}
+
+.voltar{
+    color: #D3D3D3;
+    font-size: 20px;
+    text-shadow: 3px 3px #551A8B;
+    font-family: 'Pirata One', cursive;
+}
+
+.voltar:hover{
+    font-size: 22px;
+    letter-spacing: 2px;
+    transition: 1.5s;
+}
