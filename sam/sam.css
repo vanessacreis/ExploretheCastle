@@ -1,0 +1,51 @@
+.container{
+    color: #D3D3D3;
+    width: 55%;
+    height: 400px;
+    padding: 25px;
+    background: linear-gradient(#8C534C,#483D8B);
+    border-radius: 15px;
+    box-shadow: 5px 5px #551A8B;
+}
+
+.youchoose{
+    font-size: 20px;
+    text-shadow: 3px 3px #551A8B;
+    font-family: 'Pirata One', cursive;
+}
+
+.texto{
+    padding: 15px 0;
+    color: #D3D3D3;
+    font-size: 20px;
+    text-align: justify;
+    display: flex;
+}
+
+.texto img{
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.opcoes{
+    width: 90%;
+    color: #D3D3D3;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.choose{
+    background: none;
+    border: 2px solid #551A8B;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Pirata One', cursive;
+    color: #D3D3D3;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.choose:hover{
+    box-shadow: 3px 3px #8C534C;
+}
