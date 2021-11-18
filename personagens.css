@@ -1,14 +1,23 @@
+.container{
+    color: #D3D3D3;
+    width: 70%;
+    height: 400px;
+    padding: 25px;
+    background: linear-gradient(#8C534C,#483D8B);
+    border-radius: 15px;
+    box-shadow: 5px 5px #551A8B;
+}
+
 .texto{
     color: #D3D3D3;
     font-size: 20px;
     text-align: justify;
 }
 
-.texto span{
+#choose{
     color: #D3D3D3;
     font-family: 'Pirata One', cursive;
     font-size: 20px;
-    text-align: center;
 }
 
 .personagens{
