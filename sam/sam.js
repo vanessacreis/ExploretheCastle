@@ -6,6 +6,6 @@ function primeiraFase(){
     }else if (question == 2){
         window.location.href = "gameover1.html"
     }else{
-        alert('Digite 1 ou 2')
+        alert('Digite 1 ou 2 :]')
     }
 }
