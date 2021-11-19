@@ -1,0 +1,10 @@
+.container{
+    color: #D3D3D3;
+    width: 55%;
+    height: 400px;
+    padding: 20px;
+    background: linear-gradient(#8C534C,#483D8B);
+    border-radius: 15px;
+    box-shadow: 5px 5px #551A8B;
+    display: flex;
+}
