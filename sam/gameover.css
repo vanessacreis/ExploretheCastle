@@ -1,0 +1,37 @@
+.container{
+    color: #D3D3D3;
+    width: 45%;
+    height: 300px;
+    padding: 25px;
+    background: linear-gradient(#8C534C,#483D8B);
+    border-radius: 15px;
+    box-shadow: 5px 5px #551A8B;
+}
+
+.container h3{
+    color: #D3D3D3;
+    font-size: 45px;
+    text-shadow: 3px 3px #551A8B;
+    font-family: 'Pirata One', cursive;
+    text-align: center;
+    padding: 15px;
+}
+
+.container p{
+    color: #D3D3D3;
+    font-size: 45px;
+    font-size: 20px;
+}
+
+.voltar{
+    color: #D3D3D3;
+    font-size: 20px;
+    text-shadow: 3px 3px #551A8B;
+    font-family: 'Pirata One', cursive;
+}
+
+.voltar:hover{
+    font-size: 22px;
+    letter-spacing: 2px;
+    transition: 1.5s;
+}
