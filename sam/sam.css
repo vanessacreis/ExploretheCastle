@@ -6,6 +6,7 @@
     background: linear-gradient(#8C534C,#483D8B);
     border-radius: 15px;
     box-shadow: 5px 5px #551A8B;
+    display: flex;
 }
 
 .youchoose{
@@ -19,20 +20,16 @@
     color: #D3D3D3;
     font-size: 20px;
     text-align: justify;
-    display: flex;
 }
-
-.texto img{
-    width: 120px;
-    height: 120px;
-    border-radius: 15px;
-}
-
 .opcoes{
     width: 90%;
     color: #D3D3D3;
     font-size: 20px;
     text-align: justify;
+}
+
+.cx2 img{
+    max-height: 100%;
 }
 
 .choose{
