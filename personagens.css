@@ -17,7 +17,7 @@
 #choose{
     color: #D3D3D3;
     font-family: 'Pirata One', cursive;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .personagens{
@@ -30,7 +30,8 @@
 }
 
 .personagens img{
-    max-width: 130px;
+    max-width: 150px;
+    border-radius: 25px;
 }
 
 .personagens img:hover{
