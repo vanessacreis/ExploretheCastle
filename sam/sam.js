@@ -1,4 +1,4 @@
-function primeiraFase(){
+function primeiraFaseSam(){
 
     while (question != 1 || question != 2){
         var question = prompt ('O que fazer?\n\n1. Desaparecer discretamente pelos corredores em busca de um lugar vazio e aproveitar para explorar o estranho castelo.\n2. Fingir socializar e esperar pacientemente pela primeira oportunidade de ir para casa.')

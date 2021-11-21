@@ -1,4 +1,4 @@
-function segundaFase(){
+function segundaFaseSam(){
     while (question != 1 || question != 2){
         var question = prompt ('O que fazer\n\n1. Arriscar passar pela janela e sair logo dali, mesmo que isso te garanta alguns arranhões.\n2. Seguir pelos corredores tranquilamente, afinal, adultos não tem medo de assombração.')
 
