@@ -8,3 +8,36 @@
     box-shadow: 5px 5px #551A8B;
     display: flex;
 }
+
+.texto{
+    padding: 15px 0;
+    color: #D3D3D3;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.opcoes{
+    color: #D3D3D3;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.cx2 img{
+    max-height: 100%;
+    filter: drop-shadow(10px 10px 8px #2F0F4D);
+}
+
+.choose{
+    background: none;
+    border: 2px solid #551A8B;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-family: 'Pirata One', cursive;
+    color: #D3D3D3;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.choose:hover{
+    box-shadow: 3px 3px #8C534C;
+}
