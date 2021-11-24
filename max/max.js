@@ -1,6 +1,6 @@
 function primeiraFaseMax(){
     while (question !=1 || question !=2){
-        var question = prompt ('O que fazer?\n\n')
+        var question = prompt ('O que fazer?\n\n1. Se afastar e ir para casa maratonar todos os filmes do Freddy Krueger.\n2. Ficar na festa estranha com gente esquisita e tentar se enturmar.')
 
         if (question == 1){
             window.location.href = "./gameover1.html"

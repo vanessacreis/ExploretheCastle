@@ -10,7 +10,6 @@ function primeiraFaseKevin(){
             break
         }else{
             alert('Digite 1 ou 2 ;D')
-            break
         }
     }
 }
