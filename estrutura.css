@@ -26,9 +26,7 @@ a{
 header{
     height: 90px;
     margin: 0 15px;
-    box-sizing: border-box;
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     font-family: 'Pirata One', cursive;
@@ -36,7 +34,7 @@ header{
 
 .titulo{
     color: #D3D3D3;
-    font-size: 50px;
+    font-size: 55px;
     text-shadow: 4px 4px #551A8B;
 }
 
