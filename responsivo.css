@@ -1,0 +1,57 @@
+@media (max-width:700px){
+    body{
+        flex-wrap: wrap;
+    }
+
+    header{
+        height: 110px;
+    }
+
+    .titulo{
+        font-size: 45px;
+    }
+
+    .menu img{
+        width: 30px;
+        height: 30px;
+    }
+
+    footer{
+        display: none;
+    }
+
+    .convite{
+        height: 60%;
+        background: linear-gradient(#483D8B, #000000);
+    }
+
+    .convite h2{
+        font-size: 20px;
+    }
+
+    .convite p{
+        font-size: 20px;
+    }
+
+    #dataend{
+        color: #d3d3d3;
+    }
+
+    .container{
+        width: 85%;
+        height: auto;
+    }
+
+    .texto{
+        padding: auto;
+        font-size: 18px;
+    }
+
+    .cx2{
+        display: none;
+    }
+    
+    .gameover{
+        font-size: 35px;
+    }
+}
